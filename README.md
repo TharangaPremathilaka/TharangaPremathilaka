@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TharangaPremathilaka
+- I am an undergraduate student of Information and Communication Technology at the University of Sri Jayewardenepura. I am interested in Web Application design and QA testing.
